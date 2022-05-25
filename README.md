@@ -25,9 +25,9 @@ The analysis shows only slight changes in temperature in Oahu between June and D
 
 **June**
 
-![img](https://github.com/fhsal/PyCity_Schools/blob/main/Images/before_Avg_scores.png)
+![img](https://github.com/fhsal/surfs-up/blob/main/june_stats.png)
 
 **December**  
 
-![img](https://github.com/fhsal/PyCity_Schools/blob/main/Images/after_Avg_scores.png)
+![img](https://github.com/fhsal/surfs-up/blob/main/dec_stats.png)
 
